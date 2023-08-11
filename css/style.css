@@ -75,6 +75,10 @@ margin-left: 35px;
 .two{
     text-align: center;
    padding: 80px;
+     background-image: url(../img/hero-bg.png);
+   background-position: 100% 100%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
 }
 .two .image h1{
     font-size: 45px;
